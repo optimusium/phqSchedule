@@ -1,0 +1,168 @@
+Part 1
+
+>command
+PUT
+
+>address
+http://localhost:8080/kie-server/services/rest/server/containers/PHQTimeTable_1.0.0/solvers/TimeSolver
+
+>authorization
+choose basic auth or basic authentication under "Authorization"
+use wbadmin as user and password
+
+>headers
+
+authorization: Basic cGxhbm5lcjpQbGFubmVyMTIzXw==
+X-KIE-ContentType: xstream
+content-type: application/xml
+
+>Body
+
+<solver-instance>
+  <solver-config-file>com/phqtime/phqtimetable/TimeSolver.solver.xml</solver-config-file>
+</solver-instance>
+
+Part 2
+
+>Command
+POST
+
+>authorization
+choose basic auth or basic authentication under "Authorization"
+use wbadmin as user and password
+
+>headers
+
+authorization: Basic cGxhbm5lcjpQbGFubmVyMTIzXw==
+X-KIE-ContentType: xstream
+content-type: application/xml
+
+>Body
+
+<com.phqtime.phqtimetable.timeSolution>
+  <id>0</id>
+  <patientList>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>1</id>
+      <name>AAA</name>
+      <language>chinese</language>
+      <PHQscore>26</PHQscore>
+      <location>east</location>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>2</id>
+      <name>BBB</name>
+      <language>indian</language>
+      <PHQscore>24</PHQscore>
+      <location>west</location>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>3</id>
+      <name>CCC</name>
+      <language>malay</language>
+      <PHQscore>23</PHQscore>
+      <location>west</location>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>4</id>
+      <name>DDD</name>
+      <language>chinese</language>
+      <PHQscore>27</PHQscore>
+      <location>east</location>
+    </com.phqtime.phqtimetable.patient>
+
+
+  </patientList>
+
+  <practionerList>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>1</id>
+      <name>DrAli</name>
+      <language>malay</language>
+      <location>west</location>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>2</id>
+      <name>DrHong</name>
+      <language>chinese</language>
+      <location>east</location>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>3</id>
+      <name>DrKumar</name>
+      <language>indian</language>
+      <location>west</location>
+    </com.phqtime.phqtimetable.practioner>
+
+  </practionerList>
+
+  <timeSlotList>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>monday</weekday>
+      <timeSlot>morning</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>tuesday</weekday>
+      <timeSlot>morning</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>tuesday</weekday>
+      <timeSlot>night</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>thursday</weekday>
+      <timeSlot>night</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+  </timeSlotList>
+
+  <PHQprocessList>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>1</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>2</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>3</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>4</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>5</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+
+  </PHQprocessList>
+
+
+</com.phqtime.phqtimetable.timeSolution>
+
+
+=====================================================
+
+Part 3
+
+goto any browser in vm
+
+goto http://localhost:8080/kie-server/services/rest/server/containers/PHQTimeTable_1.0.0/solvers/TimeSolver/bestsolution
+
+log in as wbadmin if ask for identity
+
