@@ -1,0 +1,186 @@
+<com.phqtime.phqtimetable.timeSolution>
+  <id>0</id>
+  <patientList>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>1</id>
+      <name>AAA</name>
+      <language>chinese</language>
+      <PHQscore>26</PHQscore>
+      <location>east</location>
+      <gender>male</gender>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>2</id>
+      <name>BBB</name>
+      <language>indian</language>
+      <PHQscore>25</PHQscore>
+      <location>west</location>
+      <gender>male</gender>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>3</id>
+      <name>CCC</name>
+      <language>malay</language>
+      <PHQscore>23</PHQscore>
+      <location>west</location>
+      <gender>male</gender>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>4</id>
+      <name>DDD</name>
+      <language>chinese</language>
+      <PHQscore>27</PHQscore>
+      <location>east</location>
+      <gender>female</gender>
+    </com.phqtime.phqtimetable.patient>
+
+    <com.phqtime.phqtimetable.patient>
+      <id>5</id>
+      <name>undetermined</name>
+      <language>null</language>
+      <PHQscore>0</PHQscore>
+      <location>null</location>
+      <gender>null</gender>
+    </com.phqtime.phqtimetable.patient>
+
+  </patientList>
+
+  <practionerList>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>1</id>
+      <name>DrAli</name>
+      <language>malay</language>
+      <location>west</location>
+      <gender>male</gender>
+      <type>psycologist</type>
+      <cost>80</cost>
+      <unavail>
+        <com.phqtime.phqtimetable.singleTimeSlot>
+          <weekday>tuesday</weekday>
+          <timeSlot>night</timeSlot>
+        </com.phqtime.phqtimetable.singleTimeSlot>
+      </unavail>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>2</id>
+      <name>DrHong</name>
+      <language>chinese</language>
+      <location>east</location>
+      <gender>male</gender>
+      <type>psycologist</type>
+      <cost>80</cost>
+      <unavail>
+        <com.phqtime.phqtimetable.singleTimeSlot>
+          <weekday>tuesday</weekday>
+          <timeSlot>night</timeSlot>
+        </com.phqtime.phqtimetable.singleTimeSlot>
+      </unavail>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>3</id>
+      <name>DrKumar</name>
+      <language>indian</language>
+      <location>west</location>
+      <gender>male</gender>
+      <type>psycologist</type>
+      <cost>80</cost>
+      <unavail>
+        <com.phqtime.phqtimetable.singleTimeSlot>
+          <weekday>tuesday</weekday>
+          <timeSlot>night</timeSlot>
+        </com.phqtime.phqtimetable.singleTimeSlot>
+      </unavail>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>4</id>
+      <name>DrCindy</name>
+      <language>chinese</language>
+      <location>east</location>
+      <gender>female</gender>
+      <type>psycologist</type>
+      <cost>80</cost>
+      <unavail>
+        <com.phqtime.phqtimetable.singleTimeSlot>
+          <weekday>wednesday</weekday>
+          <timeSlot>night</timeSlot>
+        </com.phqtime.phqtimetable.singleTimeSlot>
+      </unavail>
+    </com.phqtime.phqtimetable.practioner>
+
+    <com.phqtime.phqtimetable.practioner>
+      <id>5</id>
+      <name>undetermined</name>
+      <language>no</language>
+      <location>no</location>
+      <gender>null</gender>
+      <type>null</type>
+      <cost>0</cost>
+      <unavail>
+        <com.phqtime.phqtimetable.singleTimeSlot>
+          <weekday>null</weekday>
+          <timeSlot>null</timeSlot>
+        </com.phqtime.phqtimetable.singleTimeSlot>
+      </unavail>
+    </com.phqtime.phqtimetable.practioner>
+
+  </practionerList>
+
+  <timeSlotList>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>monday</weekday>
+      <timeSlot>morning</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>tuesday</weekday>
+      <timeSlot>morning</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>tuesday</weekday>
+      <timeSlot>night</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+    <com.phqtime.phqtimetable.singleTimeSlot>
+      <weekday>thursday</weekday>
+      <timeSlot>night</timeSlot>
+    </com.phqtime.phqtimetable.singleTimeSlot>
+
+  </timeSlotList>
+
+  <PHQprocessList>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>1</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>2</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>3</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>4</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+    <com.phqtime.phqtimetable.PHQprocess>
+      <id>5</id>
+    </com.phqtime.phqtimetable.PHQprocess>
+
+
+  </PHQprocessList>
+
+
+</com.phqtime.phqtimetable.timeSolution>
