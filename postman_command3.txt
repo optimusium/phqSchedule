@@ -7,6 +7,7 @@
       <id>1</id>
       <name>1</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -16,6 +17,7 @@
       <id>2</id>
       <name>2</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -25,6 +27,7 @@
       <id>3</id>
       <name>3</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -34,6 +37,7 @@
       <id>4</id>
       <name>4</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -43,6 +47,7 @@
       <id>5</id>
       <name>5</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -52,6 +57,7 @@
       <id>6</id>
       <name>6</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -61,6 +67,7 @@
       <id>7</id>
       <name>7</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -70,6 +77,7 @@
       <id>8</id>
       <name>8</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -79,6 +87,7 @@
       <id>9</id>
       <name>9</name>
       <PHQscore>21</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -88,6 +97,7 @@
       <id>10</id>
       <name>10</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -97,6 +107,7 @@
       <id>11</id>
       <name>11</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -106,6 +117,7 @@
       <id>12</id>
       <name>12</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -115,6 +127,7 @@
       <id>13</id>
       <name>13</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -124,6 +137,7 @@
       <id>14</id>
       <name>14</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -133,6 +147,7 @@
       <id>15</id>
       <name>15</name>
       <PHQscore>19</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -142,6 +157,7 @@
       <id>16</id>
       <name>16</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -151,6 +167,7 @@
       <id>17</id>
       <name>17</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -160,6 +177,7 @@
       <id>18</id>
       <name>18</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -169,6 +187,7 @@
       <id>19</id>
       <name>19</name>
       <PHQscore>22</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -178,6 +197,7 @@
       <id>20</id>
       <name>20</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -187,6 +207,7 @@
       <id>21</id>
       <name>21</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>english</language>
       <gender>female</gender>
       <location>central</location>
@@ -196,6 +217,7 @@
       <id>22</id>
       <name>22</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>male</gender>
       <location>west</location>
@@ -205,6 +227,7 @@
       <id>23</id>
       <name>23</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>central</location>
@@ -214,6 +237,7 @@
       <id>24</id>
       <name>24</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -223,6 +247,7 @@
       <id>25</id>
       <name>25</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -232,6 +257,7 @@
       <id>26</id>
       <name>26</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -241,6 +267,7 @@
       <id>27</id>
       <name>27</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>english</language>
       <gender>male</gender>
       <location>nopreference</location>
@@ -250,6 +277,7 @@
       <id>28</id>
       <name>28</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -259,6 +287,7 @@
       <id>29</id>
       <name>29</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -268,6 +297,7 @@
       <id>30</id>
       <name>30</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -277,6 +307,7 @@
       <id>31</id>
       <name>31</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -286,6 +317,7 @@
       <id>32</id>
       <name>32</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -295,6 +327,7 @@
       <id>33</id>
       <name>33</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -304,6 +337,7 @@
       <id>34</id>
       <name>34</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>nopreference</location>
@@ -313,6 +347,7 @@
       <id>35</id>
       <name>35</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -322,6 +357,7 @@
       <id>36</id>
       <name>36</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -331,6 +367,7 @@
       <id>37</id>
       <name>37</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -340,6 +377,7 @@
       <id>38</id>
       <name>38</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>nopreference</location>
@@ -349,6 +387,7 @@
       <id>39</id>
       <name>39</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -358,6 +397,7 @@
       <id>40</id>
       <name>40</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -367,6 +407,7 @@
       <id>41</id>
       <name>41</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>chinese</language>
       <gender>female</gender>
       <location>nopreference</location>
@@ -376,6 +417,7 @@
       <id>42</id>
       <name>42</name>
       <PHQscore>11</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -385,6 +427,7 @@
       <id>43</id>
       <name>43</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -394,6 +437,7 @@
       <id>44</id>
       <name>44</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -403,6 +447,7 @@
       <id>45</id>
       <name>45</name>
       <PHQscore>13</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -412,6 +457,7 @@
       <id>46</id>
       <name>46</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -421,6 +467,7 @@
       <id>47</id>
       <name>47</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -430,6 +477,7 @@
       <id>48</id>
       <name>48</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -439,6 +487,7 @@
       <id>49</id>
       <name>49</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -448,6 +497,7 @@
       <id>50</id>
       <name>50</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -457,6 +507,7 @@
       <id>51</id>
       <name>51</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -466,6 +517,7 @@
       <id>52</id>
       <name>52</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -475,6 +527,7 @@
       <id>53</id>
       <name>53</name>
       <PHQscore>11</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -484,6 +537,7 @@
       <id>54</id>
       <name>54</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>chinese</language>
       <gender>male</gender>
       <location>east</location>
@@ -493,6 +547,7 @@
       <id>55</id>
       <name>55</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -502,6 +557,7 @@
       <id>56</id>
       <name>56</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -511,6 +567,7 @@
       <id>57</id>
       <name>57</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>nopreference</location>
@@ -520,6 +577,7 @@
       <id>58</id>
       <name>58</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -529,6 +587,7 @@
       <id>59</id>
       <name>59</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -538,6 +597,7 @@
       <id>60</id>
       <name>60</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -547,6 +607,7 @@
       <id>61</id>
       <name>61</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>nopreference</location>
@@ -556,6 +617,7 @@
       <id>62</id>
       <name>62</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -565,6 +627,7 @@
       <id>63</id>
       <name>63</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -574,6 +637,7 @@
       <id>64</id>
       <name>64</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -583,6 +647,7 @@
       <id>65</id>
       <name>65</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -592,6 +657,7 @@
       <id>66</id>
       <name>66</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -601,6 +667,7 @@
       <id>67</id>
       <name>67</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -610,6 +677,7 @@
       <id>68</id>
       <name>68</name>
       <PHQscore>11</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -619,6 +687,7 @@
       <id>69</id>
       <name>69</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -628,6 +697,7 @@
       <id>70</id>
       <name>70</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -637,6 +707,7 @@
       <id>71</id>
       <name>71</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>northeast</location>
@@ -646,6 +717,7 @@
       <id>72</id>
       <name>72</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -655,6 +727,7 @@
       <id>73</id>
       <name>73</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -664,6 +737,7 @@
       <id>74</id>
       <name>74</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -673,6 +747,7 @@
       <id>75</id>
       <name>75</name>
       <PHQscore>13</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -682,6 +757,7 @@
       <id>76</id>
       <name>76</name>
       <PHQscore>13</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -691,6 +767,7 @@
       <id>77</id>
       <name>77</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -700,6 +777,7 @@
       <id>78</id>
       <name>78</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -709,6 +787,7 @@
       <id>79</id>
       <name>79</name>
       <PHQscore>11</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -718,6 +797,7 @@
       <id>80</id>
       <name>80</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -727,6 +807,7 @@
       <id>81</id>
       <name>81</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -736,6 +817,7 @@
       <id>82</id>
       <name>82</name>
       <PHQscore>19</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -745,6 +827,7 @@
       <id>83</id>
       <name>83</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -754,6 +837,7 @@
       <id>84</id>
       <name>84</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -763,6 +847,7 @@
       <id>85</id>
       <name>85</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>central</location>
@@ -772,6 +857,7 @@
       <id>86</id>
       <name>86</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -781,6 +867,7 @@
       <id>87</id>
       <name>87</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -790,6 +877,7 @@
       <id>88</id>
       <name>88</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -799,6 +887,7 @@
       <id>89</id>
       <name>89</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -806,35 +895,39 @@
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>90</id>
-      <name>90</name>
-      <PHQscore>10</PHQscore>
-      <language>nopreference</language>
+      <name>132</name>
+      <PHQscore>24</PHQscore>
+      <remainWeek>1</remainWeek>
+      <language>tamil</language>
       <gender>nopreference</gender>
-      <location>west</location>
+      <location>northeast</location>
       <preferDay>monday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>91</id>
-      <name>91</name>
-      <PHQscore>11</PHQscore>
+      <name>133</name>
+      <PHQscore>22</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
-      <location>central</location>
-      <preferDay>saturday</preferDay>
+      <location>east</location>
+      <preferDay>friday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>92</id>
-      <name>92</name>
-      <PHQscore>14</PHQscore>
+      <name>121</name>
+      <PHQscore>27</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
-      <location>west</location>
-      <preferDay>monday</preferDay>
+      <location>east</location>
+      <preferDay>friday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>93</id>
       <name>93</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -844,6 +937,7 @@
       <id>94</id>
       <name>94</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -853,6 +947,7 @@
       <id>95</id>
       <name>95</name>
       <PHQscore>21</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -862,6 +957,7 @@
       <id>96</id>
       <name>96</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -871,6 +967,7 @@
       <id>97</id>
       <name>97</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -880,6 +977,7 @@
       <id>98</id>
       <name>98</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -889,6 +987,7 @@
       <id>99</id>
       <name>99</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -898,6 +997,7 @@
       <id>100</id>
       <name>100</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -907,6 +1007,7 @@
       <id>101</id>
       <name>101</name>
       <PHQscore>21</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>west</location>
@@ -916,6 +1017,7 @@
       <id>102</id>
       <name>102</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -925,6 +1027,7 @@
       <id>103</id>
       <name>103</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -934,6 +1037,7 @@
       <id>104</id>
       <name>104</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -943,6 +1047,7 @@
       <id>105</id>
       <name>105</name>
       <PHQscore>27</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -952,6 +1057,7 @@
       <id>106</id>
       <name>106</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -961,6 +1067,7 @@
       <id>107</id>
       <name>107</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
       <location>east</location>
@@ -970,6 +1077,7 @@
       <id>108</id>
       <name>108</name>
       <PHQscore>19</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -979,6 +1087,7 @@
       <id>109</id>
       <name>109</name>
       <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -988,6 +1097,7 @@
       <id>110</id>
       <name>110</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -997,6 +1107,7 @@
       <id>111</id>
       <name>111</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1006,6 +1117,7 @@
       <id>112</id>
       <name>112</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -1015,6 +1127,7 @@
       <id>113</id>
       <name>113</name>
       <PHQscore>13</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -1024,6 +1137,7 @@
       <id>114</id>
       <name>114</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -1033,6 +1147,7 @@
       <id>115</id>
       <name>115</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>tamil</language>
       <gender>male</gender>
       <location>northeast</location>
@@ -1042,6 +1157,7 @@
       <id>116</id>
       <name>116</name>
       <PHQscore>16</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1051,6 +1167,7 @@
       <id>117</id>
       <name>117</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -1060,6 +1177,7 @@
       <id>118</id>
       <name>118</name>
       <PHQscore>23</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>malay</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -1069,6 +1187,7 @@
       <id>119</id>
       <name>119</name>
       <PHQscore>25</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -1078,6 +1197,7 @@
       <id>120</id>
       <name>120</name>
       <PHQscore>22</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -1085,17 +1205,19 @@
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>121</id>
-      <name>121</name>
-      <PHQscore>27</PHQscore>
+      <name>92</name>
+      <PHQscore>14</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
-      <location>east</location>
-      <preferDay>friday</preferDay>
+      <location>west</location>
+      <preferDay>monday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>122</id>
       <name>122</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>east</location>
@@ -1105,6 +1227,7 @@
       <id>123</id>
       <name>123</name>
       <PHQscore>15</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -1114,6 +1237,7 @@
       <id>124</id>
       <name>124</name>
       <PHQscore>18</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1123,6 +1247,7 @@
       <id>125</id>
       <name>125</name>
       <PHQscore>17</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>male</gender>
       <location>west</location>
@@ -1132,6 +1257,7 @@
       <id>126</id>
       <name>126</name>
       <PHQscore>24</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -1141,6 +1267,7 @@
       <id>127</id>
       <name>127</name>
       <PHQscore>10</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>chinese</language>
       <gender>nopreference</gender>
       <location>north</location>
@@ -1150,6 +1277,7 @@
       <id>128</id>
       <name>128</name>
       <PHQscore>22</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1159,6 +1287,7 @@
       <id>129</id>
       <name>129</name>
       <PHQscore>20</PHQscore>
+      <remainWeek>4</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>northeast</location>
@@ -1168,6 +1297,7 @@
       <id>130</id>
       <name>130</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>tamil</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1177,6 +1307,7 @@
       <id>131</id>
       <name>131</name>
       <PHQscore>26</PHQscore>
+      <remainWeek>2</remainWeek>
       <language>english</language>
       <gender>nopreference</gender>
       <location>central</location>
@@ -1184,26 +1315,29 @@
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>132</id>
-      <name>132</name>
-      <PHQscore>24</PHQscore>
-      <language>tamil</language>
+      <name>90</name>
+      <PHQscore>10</PHQscore>
+      <remainWeek>1</remainWeek>
+      <language>nopreference</language>
       <gender>nopreference</gender>
-      <location>northeast</location>
+      <location>west</location>
       <preferDay>monday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>133</id>
-      <name>133</name>
-      <PHQscore>22</PHQscore>
+      <name>91</name>
+      <PHQscore>11</PHQscore>
+      <remainWeek>3</remainWeek>
       <language>nopreference</language>
       <gender>female</gender>
-      <location>east</location>
-      <preferDay>friday</preferDay>
+      <location>central</location>
+      <preferDay>saturday</preferDay>
     </com.phqtime.phqtimetable.PHQprocess>
     <com.phqtime.phqtimetable.PHQprocess>
       <id>134</id>
       <name>134</name>
       <PHQscore>12</PHQscore>
+      <remainWeek>1</remainWeek>
       <language>nopreference</language>
       <gender>nopreference</gender>
       <location>west</location>
@@ -1217,9 +1351,14 @@
       <id>1</id>
       <name>Ms Pearl Chua</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1230,13 +1369,26 @@
       <id>2</id>
       <name>Dr Chan Yi Wen Christopher</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1247,9 +1399,14 @@
       <id>3</id>
       <name>Mr Liu Teck Boon</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1260,9 +1417,14 @@
       <id>4</id>
       <name>Ms Roxanne Koh</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1273,10 +1435,17 @@
       <id>5</id>
       <name>Dr Gudi Alakananda</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>male</gender>
@@ -1287,8 +1456,11 @@
       <id>6</id>
       <name>Ms Denise Yap</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1299,9 +1471,14 @@
       <id>7</id>
       <name>Ms Alice Liang</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1312,9 +1489,14 @@
       <id>8</id>
       <name>Ms Chin Ga Li</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1325,9 +1507,14 @@
       <id>9</id>
       <name>Mr Ng Wei Xin</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1338,9 +1525,14 @@
       <id>10</id>
       <name>Ms Jace Loi</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1351,8 +1543,11 @@
       <id>11</id>
       <name>Mr Warton Ong</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1363,8 +1558,11 @@
       <id>12</id>
       <name>Ms Rafeah Binte Buang</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -1375,8 +1573,11 @@
       <id>13</id>
       <name>Ms Grace Chan</name>
       <type>counsellor</type>
+      <unavailWeek>1</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1387,8 +1588,11 @@
       <id>14</id>
       <name>Mrs Raj</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>thursday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -1399,8 +1603,11 @@
       <id>15</id>
       <name>Ms Mary Baker</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -1411,8 +1618,11 @@
       <id>16</id>
       <name>Ms Emily Tan</name>
       <type>counsellor</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1423,9 +1633,14 @@
       <id>17</id>
       <name>Mr John Wee</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1436,13 +1651,26 @@
       <id>18</id>
       <name>Dr Terence Yow</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1453,13 +1681,26 @@
       <id>19</id>
       <name>Dr Chai Suet Bin</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1470,11 +1711,20 @@
       <id>20</id>
       <name>Ms Sharon Ng</name>
       <type>counsellor</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1485,9 +1735,14 @@
       <id>21</id>
       <name>Ms Nur Hilyah Bte Saparin</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -1498,13 +1753,26 @@
       <id>22</id>
       <name>Dr Cheow Enquan</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1515,13 +1783,26 @@
       <id>23</id>
       <name>Dr Chua Sze Ming</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1532,13 +1813,26 @@
       <id>24</id>
       <name>Dr Daw San San Thinn</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -1549,13 +1843,26 @@
       <id>25</id>
       <name>Dr Lee Kim Huat Jason</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1566,13 +1873,26 @@
       <id>26</id>
       <name>Dr Lee Sue-Fern Dawn</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1583,13 +1903,26 @@
       <id>27</id>
       <name>Dr Liew Tau Ming</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1600,13 +1933,26 @@
       <id>28</id>
       <name>Dr Donovan Lim Yutong</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1617,13 +1963,26 @@
       <id>29</id>
       <name>Mr Kevin Beck</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>male</gender>
@@ -1634,13 +1993,26 @@
       <id>30</id>
       <name>Dr Chan Hui Minn</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1651,13 +2023,26 @@
       <id>31</id>
       <name>Dr Chang Ju Lyn</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1668,13 +2053,26 @@
       <id>32</id>
       <name>Ms Chen Huimin</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1685,13 +2083,26 @@
       <id>33</id>
       <name>Mdm Manzur Suhana Ahamad</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -1702,13 +2113,26 @@
       <id>34</id>
       <name>Ms Malar Palaiyan </name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -1719,13 +2143,26 @@
       <id>35</id>
       <name>Mdm Ng Li Sha</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1736,13 +2173,26 @@
       <id>36</id>
       <name>Dr Neo Li Fang</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1753,13 +2203,26 @@
       <id>37</id>
       <name>Miss Lim Si Huan</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1770,13 +2233,26 @@
       <id>38</id>
       <name>Dr Matthew Lim</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1787,12 +2263,23 @@
       <id>39</id>
       <name>Dr Natarajan Kathirvel</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>male</gender>
@@ -1803,12 +2290,23 @@
       <id>40</id>
       <name>Dr Nisha Chandwani</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -1819,12 +2317,23 @@
       <id>41</id>
       <name>Dr Ravichandran Nigila</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -1835,12 +2344,23 @@
       <id>42</id>
       <name>Dr Tor Phern Chern</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1851,13 +2371,26 @@
       <id>43</id>
       <name>Dr Vivekanandan Sivalingam</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>male</gender>
@@ -1868,13 +2401,26 @@
       <id>44</id>
       <name>Dr Zheng Zhimin</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1885,11 +2431,20 @@
       <id>45</id>
       <name>Dr Lau Boon Jia</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1900,13 +2455,26 @@
       <id>46</id>
       <name>Dr Lee Yu Wei</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1917,13 +2485,26 @@
       <id>47</id>
       <name>Dr Lim Shanhui Gillian</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1934,11 +2515,20 @@
       <id>48</id>
       <name>Dr Tan Chern-Yee Geoffrey</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -1949,11 +2539,20 @@
       <id>49</id>
       <name>Dr Edimansyah Bin Abidin</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>male</gender>
@@ -1964,11 +2563,20 @@
       <id>50</id>
       <name>Dr Syed Harun Bin Taha Alhabsyi</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>male</gender>
@@ -1979,13 +2587,26 @@
       <id>51</id>
       <name>Ms Tan Tai Yeow</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -1996,12 +2617,23 @@
       <id>52</id>
       <name>Ms Tan Ke Jia</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2012,11 +2644,20 @@
       <id>53</id>
       <name>Ms Tan Eng Hui</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2027,13 +2668,26 @@
       <id>54</id>
       <name>Ms Elizbeth Tan</name>
       <type>psychologist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2044,12 +2698,23 @@
       <id>55</id>
       <name>Mrs Raj Haanusia Prithivi</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -2060,12 +2725,23 @@
       <id>56</id>
       <name>Mr Ong Lue Ping</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2076,12 +2752,23 @@
       <id>57</id>
       <name>Ms Ong Li Min</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2092,12 +2779,23 @@
       <id>58</id>
       <name>Mdm Shankar Balan Maheswari</name>
       <type>psychologist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -2108,9 +2806,14 @@
       <id>59</id>
       <name>Ms Bettina Yeap</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -2121,9 +2824,14 @@
       <id>60</id>
       <name>Mr Jonathan Lee</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2134,9 +2842,14 @@
       <id>61</id>
       <name>Mdm Carolyn Lim</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -2147,9 +2860,14 @@
       <id>62</id>
       <name>Mr Jonathan Siew</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2160,9 +2878,14 @@
       <id>63</id>
       <name>Mdm Chan Guat Choo</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2173,9 +2896,14 @@
       <id>64</id>
       <name>Ms Kok Lee Fong</name>
       <type>counsellor</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2186,9 +2914,14 @@
       <id>65</id>
       <name>Mdm Charis Chua</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2199,9 +2932,14 @@
       <id>66</id>
       <name>Mr Michael Chin</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2212,9 +2950,14 @@
       <id>67</id>
       <name>Mdm Cho Chia Min</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2225,9 +2968,14 @@
       <id>68</id>
       <name>Mdm Oh Ching Fen</name>
       <type>counsellor</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2238,9 +2986,14 @@
       <id>69</id>
       <name>Mdm Fion Liew</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2251,9 +3004,14 @@
       <id>70</id>
       <name>Ms Tan Hong Kheng</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2264,9 +3022,14 @@
       <id>71</id>
       <name>Ms Guo Lih Jia</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2277,9 +3040,14 @@
       <id>72</id>
       <name>Ms Lily Gan</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2290,9 +3058,14 @@
       <id>73</id>
       <name>Mr Frank Singam</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>male</gender>
@@ -2303,9 +3076,14 @@
       <id>74</id>
       <name>Mr Eric Lim</name>
       <type>counsellor</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2316,9 +3094,14 @@
       <id>75</id>
       <name>Ms Theresa Pong</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2329,9 +3112,14 @@
       <id>76</id>
       <name>Mr Larry Lai</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>tuesday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>tuesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2342,9 +3130,14 @@
       <id>77</id>
       <name>Ms Fiona Seah</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2355,9 +3148,14 @@
       <id>78</id>
       <name>Ms Kiat Yong Nah</name>
       <type>counsellor</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2368,9 +3166,14 @@
       <id>79</id>
       <name>Ms Chiam Ling Ling</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2381,9 +3184,14 @@
       <id>80</id>
       <name>Ms Swanie Khoo</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2394,9 +3202,14 @@
       <id>81</id>
       <name>Ms Samantha Loh</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2407,9 +3220,14 @@
       <id>82</id>
       <name>Dr Jaswyn Chin</name>
       <type>psychologist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2420,9 +3238,14 @@
       <id>83</id>
       <name>Ms Rafizah Bte Yusof</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -2433,8 +3256,11 @@
       <id>84</id>
       <name>Dr Jamie Lee</name>
       <type>psychologist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2445,9 +3271,14 @@
       <id>85</id>
       <name>Dr Elizabeth Lau</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2458,8 +3289,11 @@
       <id>86</id>
       <name>Dr Srephanie Soh</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2470,10 +3304,17 @@
       <id>87</id>
       <name>Dr Francis Ngui</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2484,10 +3325,17 @@
       <id>88</id>
       <name>Dr Ken Ung</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2498,10 +3346,17 @@
       <id>89</id>
       <name>Dr Lim Yun Chin</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2512,10 +3367,17 @@
       <id>90</id>
       <name>Dr Clarice Hong Pei Hsia</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2526,8 +3388,11 @@
       <id>91</id>
       <name>Dr Joshua Kua Hai Kiat</name>
       <type>psychiatrist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2538,9 +3403,14 @@
       <id>92</id>
       <name>Dr Tan Hwee Sim</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2551,8 +3421,11 @@
       <id>93</id>
       <name>Dr Chua Siew Eng</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2563,8 +3436,11 @@
       <id>94</id>
       <name>Dr Cecilia Chu</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2575,9 +3451,14 @@
       <id>95</id>
       <name>Ms Saras Atre</name>
       <type>psychologist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -2588,8 +3469,11 @@
       <id>96</id>
       <name>Ms Yesmin Chan</name>
       <type>counsellor</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2600,9 +3484,14 @@
       <id>97</id>
       <name>Dr Chan Oi Mei</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2613,9 +3502,14 @@
       <id>98</id>
       <name>Dr Ng Li-Ling</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2626,9 +3520,14 @@
       <id>99</id>
       <name>Adj Prof Tan Lay Ling</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2639,8 +3538,11 @@
       <id>100</id>
       <name>Ms Jasmine Yeo</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2651,9 +3553,14 @@
       <id>101</id>
       <name>Ms Karen Tan</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2664,8 +3571,11 @@
       <id>102</id>
       <name>Mdm Ho Choon Khim</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2676,9 +3586,14 @@
       <id>103</id>
       <name>Mdm Chong Hwee Min</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2689,8 +3604,11 @@
       <id>104</id>
       <name>Dr Sandy Julianty Umboh</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -2701,9 +3619,14 @@
       <id>105</id>
       <name>Dr Pat Fong Roselyne Shirley</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2714,8 +3637,11 @@
       <id>106</id>
       <name>Dr Siak Elizabeth Junpei</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2726,9 +3652,14 @@
       <id>107</id>
       <name>Dr Wan Yi Min</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2739,8 +3670,11 @@
       <id>108</id>
       <name>Dr Aaron Meng</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2751,9 +3685,14 @@
       <id>109</id>
       <name>Dr Darryl Tan</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2764,10 +3703,17 @@
       <id>110</id>
       <name>Ms Huang Shan</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2778,9 +3724,14 @@
       <id>111</id>
       <name>Mr Patrick Leong</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2791,10 +3742,17 @@
       <id>112</id>
       <name>Ms Dawn Chia</name>
       <type>psychologist</type>
+      <unavailWeek>3</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2805,9 +3763,14 @@
       <id>113</id>
       <name>Ms Jocelyn Liao</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2818,10 +3781,17 @@
       <id>114</id>
       <name>Dr Cheang Ka Man</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2832,9 +3802,14 @@
       <id>115</id>
       <name>Dr Soh Keng Chuan</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2845,10 +3820,17 @@
       <id>116</id>
       <name>Dr Yong Mo Juin</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2859,10 +3841,17 @@
       <id>117</id>
       <name>Ms Gitanjali Goyal</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>female</gender>
@@ -2873,9 +3862,14 @@
       <id>118</id>
       <name>Ms Ivena Clarissa</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -2886,10 +3880,17 @@
       <id>119</id>
       <name>Ms Lim Gaik Suan</name>
       <type>psychologist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2900,9 +3901,14 @@
       <id>120</id>
       <name>Ms Terri Chen</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2913,10 +3919,17 @@
       <id>121</id>
       <name>Dr Celine Wong</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2927,9 +3940,14 @@
       <id>122</id>
       <name>Dr Johnson Fam</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2940,10 +3958,17 @@
       <id>123</id>
       <name>Dr Lui Yit Shiang</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -2954,8 +3979,11 @@
       <id>124</id>
       <name>Dr Irene Tirtajana</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -2966,9 +3994,14 @@
       <id>125</id>
       <name>Dr Lycia Teo</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2979,8 +4012,11 @@
       <id>126</id>
       <name>Dr Tan Yuyuan</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -2991,13 +4027,26 @@
       <id>127</id>
       <name>Dr Chan Chun Ting Tommy</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>monday</java.lang.String>
-          <java.lang.String>wednesday</java.lang.String>
-          <java.lang.String>thursday</java.lang.String>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>monday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>wednesday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>thursday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3008,9 +4057,14 @@
       <id>128</id>
       <name>Dr Ng Kah Wee</name>
       <type>psychiatrist</type>
+      <unavailWeek>4</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3021,10 +4075,17 @@
       <id>129</id>
       <name>Dr Tan Shian Ming</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3035,9 +4096,14 @@
       <id>130</id>
       <name>Dr Victor Foo</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3048,10 +4114,17 @@
       <id>131</id>
       <name>Dr Ashwin Chee</name>
       <type>psychiatrist</type>
+      <unavailWeek>2</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3062,10 +4135,17 @@
       <id>132</id>
       <name>Ms June Lim</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -3076,10 +4156,17 @@
       <id>133</id>
       <name>Mr Adrain Toh</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>male</gender>
@@ -3090,9 +4177,14 @@
       <id>134</id>
       <name>Ms Karayan Kayanoth Reshmi</name>
       <type>counsellor</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>malay</language>
       <gender>female</gender>
@@ -3103,9 +4195,14 @@
       <id>135</id>
       <name>Dr Iris Rawtaer</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>english</language>
       <gender>female</gender>
@@ -3116,9 +4213,14 @@
       <id>136</id>
       <name>Ms Lanurse Chen</name>
       <type>psychologist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>chinese</language>
       <gender>female</gender>
@@ -3129,10 +4231,17 @@
       <id>137</id>
       <name>Dr Gospal Alakananda</name>
       <type>psychiatrist</type>
+      <unavailWeek>5</unavailWeek>
       <unavail>
-          <java.lang.String>friday</java.lang.String>
-          <java.lang.String>saturday</java.lang.String>
-          <java.lang.String>sunday</java.lang.String>
+           <com.phqtime.phqtimetable.week_day>
+          <day>friday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>saturday</day>
+           </com.phqtime.phqtimetable.week_day>
+           <com.phqtime.phqtimetable.week_day>
+          <day>sunday</day>
+           </com.phqtime.phqtimetable.week_day>
       </unavail>
       <language>tamil</language>
       <gender>male</gender>
