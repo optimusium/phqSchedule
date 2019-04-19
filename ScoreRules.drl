@@ -35,18 +35,24 @@ end
 rule "practionerUnavailableRule"
 when
 	PhqProcess($selectedPractioner : selectedPractioner, selectedPractioner != null, 
-		!(selectedPractioner.nilPractioner),
-		$selectedPeriod : selectedPeriod, selectedPeriod != null)
-	UnavailableDay(practioner == $selectedPractioner, day == $selectedPeriod.day)
+		!(selectedPractioner.nilPractioner), $selectedPeriod : selectedPeriod, selectedPeriod != null, 
+		selectedPractioner.isUnavailablePeriod(selectedPeriod))
 then
     scoreHolder.addHardConstraintMatch(kcontext, -28);
 end
 
 rule "phqRule"
 when
-	PhqProcess($phqScore : assignedPatient.phqScore, $phqScore>9)
+	PhqProcess(selectedPractioner != null, !(selectedPractioner.nilPractioner), $phqScore : assignedPatient.phqScore, $phqScore>9)
 then
     scoreHolder.addHardConstraintMatch(kcontext, $phqScore);
+end
+
+rule "undeterminedRule"
+when
+	PhqProcess(selectedPractioner == null || !(selectedPractioner.nilPractioner) )
+then
+    scoreHolder.addHardConstraintMatch(kcontext, 0 );
 end
 
 /*
@@ -100,3 +106,4 @@ when
 then
 	scoreHolder.addSoftConstraintMatch(kcontext, 120-$selectedPractioner.getCostEachHour());
 end
+
