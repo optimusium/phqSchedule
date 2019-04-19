@@ -32,6 +32,16 @@ then
     scoreHolder.addHardConstraintMatch(kcontext, -28);
 end
 
+/*
+rule "practionerUnavailableRule"
+when
+	PhqProcess($selectedPractioner : selectedPractioner, selectedPractioner != null, 
+		!(selectedPractioner.nilPractioner), $selectedPeriod : selectedPeriod, selectedPeriod != null, 
+		selectedPractioner.isUnavailablePeriod(selectedPeriod))
+then
+    scoreHolder.addHardConstraintMatch(kcontext, -28);
+end
+*/
 rule "practionerUnavailableRule"
 when
 	PhqProcess($selectedPractioner : selectedPractioner, selectedPractioner != null, 
@@ -54,6 +64,7 @@ when
 then
     scoreHolder.addHardConstraintMatch(kcontext, 0 );
 end
+
 
 /*
 rule "unavaiablePractionerRule"
